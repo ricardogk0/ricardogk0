@@ -20,14 +20,14 @@ Seja bem vindo(a) ao meu repositório.
 
 Projeto Fretes WEB
 
-O projeto em desenvolvimento é a criação de aplicação WEB para controle de fretes, cadastros de veículos e motoristas. Neste projeto foi utilizado ASP .NET MVC, EF, PostgreSQL, JWT
+O projeto em desenvolvimento é a criação de aplicação WEB para controle de fretes, cadastros de veículos e motoristas. Neste projeto foi utilizado ASP .NET MVC, EF, PostgreSQL, JWT, HTML, CSS, JavaScript.
 
 https://github.com/ricardogk0/FretesWebApp
 
 
 Relatório de comissões de vendedores:
 
-O relatório consiste em exibir as comissões dos vendedores de acordo com algumas regras adotadas
+O relatório consiste em exibir as comissões dos vendedores de acordo com algumas regras adotadas. Neste projeto utilizo apenas banco de dados SQL.
 
 https://github.com/ricardogk0/ComissaoSQL
 
