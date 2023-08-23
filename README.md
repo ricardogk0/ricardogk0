@@ -24,6 +24,7 @@ O projeto em desenvolvimento é a criação de aplicação WEB para controle de 
 
 https://github.com/ricardogk0/FretesWebApp
 
+<br>
 
 Projeto Sells WEB
 
@@ -31,6 +32,7 @@ O projeto consiste em página web, para cadastro, consulta de vendedores e venda
 
 https://github.com/ricardogk0/SallesWeb
 
+<br>
 
 Relatório de comissões de vendedores:
 
