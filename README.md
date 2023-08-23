@@ -25,6 +25,13 @@ O projeto em desenvolvimento é a criação de aplicação WEB para controle de 
 https://github.com/ricardogk0/FretesWebApp
 
 
+Projeto Sells WEB
+
+O projeto consiste em página web, para cadastro, consulta de vendedores e vendas. Foi utilizado ASP .NET MVC, EF, PostgreSQL, HTML, CSS, JavaScript.
+
+https://github.com/ricardogk0/SallesWeb
+
+
 Relatório de comissões de vendedores:
 
 O relatório consiste em exibir as comissões dos vendedores de acordo com algumas regras adotadas. Neste projeto utilizo apenas banco de dados SQL.
