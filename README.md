@@ -20,7 +20,7 @@ Seja bem vindo(a) ao meu repositório.
 
 Projeto Fretes WEB
 
-O projeto em desenvolvimento é a criação de aplicação WEB para controle de fretes, cadastros de veículos e motoristas
+O projeto em desenvolvimento é a criação de aplicação WEB para controle de fretes, cadastros de veículos e motoristas. Neste projeto foi utilizado ASP .NET MVC, EF, PostgreSQL, JWT
 
 https://github.com/ricardogk0/FretesWebApp
 
