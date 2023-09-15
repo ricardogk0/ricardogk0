@@ -24,6 +24,10 @@ https://github.com/ricardogk0/BuscaBancoCepApi
 <br>
 API consumida: https://brasilapi.com.br/docs#tag/BANKS
 
+Projeto Api busca de filmes.
+
+https://github.com/ricardogk0/ApiMovies
+
 Projeto Fretes WEB
 
 O projeto em desenvolvimento é a criação de aplicação WEB para controle de fretes, cadastros de veículos e motoristas. Neste projeto foi utilizado ASP .NET MVC, EF, PostgreSQL, JWT, HTML, CSS, JavaScript.
