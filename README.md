@@ -24,9 +24,13 @@ https://github.com/ricardogk0/BuscaBancoCepApi
 <br>
 API consumida: https://brasilapi.com.br/docs#tag/BANKS
 
+<br>
+
 Projeto Api busca de filmes.
 
 https://github.com/ricardogk0/ApiMovies
+
+<br>
 
 Projeto Fretes WEB
 
