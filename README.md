@@ -1,8 +1,8 @@
 ## Olá!!! Eu sou o Ricardo Gomes! 
 Seja bem vindo(a) ao meu repositório. 
 
-- 🔭 Sou desenvolvedor full-stack
-- 🌱 Estudando Angular2+
+- 🔭 Sou desenvolvedor .NET
+- 🌱 Estudante do curso de Análise e Desenvolvimento de Sistemas
 - 👯 Estou procurando recolocação profissional
 
 <div style="display: inline_block"><br>
