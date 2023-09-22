@@ -26,6 +26,12 @@ API consumida: https://brasilapi.com.br/docs#tag/BANKS
 
 <br>
 
+Projeto em desenvolvimento - Controle de ponto - Backend em .net e frontend em Angular
+
+https://github.com/ricardogk0/ControlePonto
+
+<br>
+
 Projeto Api busca de filmes.
 
 https://github.com/ricardogk0/ApiMovies
