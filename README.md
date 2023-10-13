@@ -26,6 +26,14 @@ API consumida: https://brasilapi.com.br/docs#tag/BANKS
 
 <br>
 
+Projeto consumindo API milvus (controle de tickets) para obter dados e gerar relatórios e BI.
+
+https://github.com/ricardogk0/IntegracaoMilvusQlik
+<br>
+https://developers.milvus.com.br/#api-Chamado-listagemChamados
+
+<br>
+
 
 Projeto em desenvolvimento - Controle de ponto - Backend em .net e frontend em Angular
 
