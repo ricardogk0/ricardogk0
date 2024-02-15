@@ -3,7 +3,6 @@ Seja bem vindo(a) ao meu repositório.
 
 - 🔭 Sou desenvolvedor .NET
 - 🌱 Estudante do curso de Análise e Desenvolvimento de Sistemas
-- 👯 Estou procurando recolocação profissional
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
